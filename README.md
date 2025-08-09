@@ -1,4 +1,4 @@
-# Wejdan
+# wj
 Simple Python tool to detect vulnerable links
 import requests
 from bs4 import BeautifulSoup
